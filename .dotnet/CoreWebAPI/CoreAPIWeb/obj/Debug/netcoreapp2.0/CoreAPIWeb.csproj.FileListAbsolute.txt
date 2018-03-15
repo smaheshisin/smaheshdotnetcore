@@ -1,0 +1,11 @@
+D:\Core Projects\CoreWebAPI\CoreAPIWeb\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Core Projects\CoreWebAPI\CoreAPIWeb\bin\Debug\netcoreapp2.0\CoreAPIWeb.deps.json
+D:\Core Projects\CoreWebAPI\CoreAPIWeb\bin\Debug\netcoreapp2.0\CoreAPIWeb.runtimeconfig.json
+D:\Core Projects\CoreWebAPI\CoreAPIWeb\bin\Debug\netcoreapp2.0\CoreAPIWeb.runtimeconfig.dev.json
+D:\Core Projects\CoreWebAPI\CoreAPIWeb\bin\Debug\netcoreapp2.0\CoreAPIWeb.dll
+D:\Core Projects\CoreWebAPI\CoreAPIWeb\bin\Debug\netcoreapp2.0\CoreAPIWeb.pdb
+D:\Core Projects\CoreWebAPI\CoreAPIWeb\obj\Debug\netcoreapp2.0\CoreAPIWeb.csproj.CoreCompileInputs.cache
+D:\Core Projects\CoreWebAPI\CoreAPIWeb\obj\Debug\netcoreapp2.0\CoreAPIWeb.AssemblyInfoInputs.cache
+D:\Core Projects\CoreWebAPI\CoreAPIWeb\obj\Debug\netcoreapp2.0\CoreAPIWeb.AssemblyInfo.cs
+D:\Core Projects\CoreWebAPI\CoreAPIWeb\obj\Debug\netcoreapp2.0\CoreAPIWeb.dll
+D:\Core Projects\CoreWebAPI\CoreAPIWeb\obj\Debug\netcoreapp2.0\CoreAPIWeb.pdb
