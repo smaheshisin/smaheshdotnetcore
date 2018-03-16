@@ -1,0 +1,14 @@
+D:\GRPC\GRPC_Build\Grpc_Server\bin\Release\netcoreapp2.0\Keys\ca.crt
+D:\GRPC\GRPC_Build\Grpc_Server\bin\Release\netcoreapp2.0\Keys\server.crt
+D:\GRPC\GRPC_Build\Grpc_Server\bin\Release\netcoreapp2.0\Keys\server.key
+D:\GRPC\GRPC_Build\Grpc_Server\bin\Release\netcoreapp2.0\Grpc_Server.deps.json
+D:\GRPC\GRPC_Build\Grpc_Server\bin\Release\netcoreapp2.0\Grpc_Server.runtimeconfig.json
+D:\GRPC\GRPC_Build\Grpc_Server\bin\Release\netcoreapp2.0\Grpc_Server.runtimeconfig.dev.json
+D:\GRPC\GRPC_Build\Grpc_Server\bin\Release\netcoreapp2.0\Grpc_Server.dll
+D:\GRPC\GRPC_Build\Grpc_Server\bin\Release\netcoreapp2.0\Grpc_Server.pdb
+D:\GRPC\GRPC_Build\Grpc_Server\obj\Release\netcoreapp2.0\Grpc_Server.csprojResolveAssemblyReference.cache
+D:\GRPC\GRPC_Build\Grpc_Server\obj\Release\netcoreapp2.0\Grpc_Server.csproj.CoreCompileInputs.cache
+D:\GRPC\GRPC_Build\Grpc_Server\obj\Release\netcoreapp2.0\Grpc_Server.AssemblyInfoInputs.cache
+D:\GRPC\GRPC_Build\Grpc_Server\obj\Release\netcoreapp2.0\Grpc_Server.AssemblyInfo.cs
+D:\GRPC\GRPC_Build\Grpc_Server\obj\Release\netcoreapp2.0\Grpc_Server.dll
+D:\GRPC\GRPC_Build\Grpc_Server\obj\Release\netcoreapp2.0\Grpc_Server.pdb
